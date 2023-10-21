@@ -1,0 +1,4 @@
+javac -source 1.8 -target 1.8 ScreenCap.java
+jar cfm project.jar manifest.txt *.class src
+jar tf project.jar
+java -jar project.jar
