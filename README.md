@@ -17,8 +17,8 @@ Users enter a name and starting number to increment from in the two text boxes a
 
 # Images
 <div style="margin: auto">
-<img src="src/prev2.png" alt="preview image 2" width="430"/>
-<img src="src/prev1.png" alt="preview image 1" width="575"/>
+<img src="src/prev2.png" alt="preview image 2""/>
+<img src="src/prev1.png" alt="preview image 1"/>
 </div>
 
 # Disclaimer
