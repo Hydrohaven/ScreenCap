@@ -16,8 +16,10 @@ Users enter a name and starting number to increment from in the two text boxes a
 - Pressing **H** stands for **H**elp, reprinting the directions users are greeted with when first opening the app.
 
 # Images
-![alt text](https://imgur.com/sLGedxO)
-![alt text](image.jpg)
+<div style="margin: auto">
+<img src="src/prev2.png" alt="preview image 2" width="430"/>
+<img src="src/prev1.png" alt="preview image 1" width="575"/>
+</div>
 
 # Disclaimer
 This app was made in the Winter break of my Senior year in High School and is thus not the prettiest application. But it holds a special place in my heart regardless as it was my 2nd app ever created through my self-taught Java GUI days (I do not want to go back...)\
