@@ -2,7 +2,7 @@
 Simple bulk file renamer that follows a "[name] [number]" file naming format (Josh 1, Josh 2, Josh 3, etc). 
 
 # Installation
-Coming out soon! I'm able to package it as an exe but I have yet to set up releases on GitHub!
+Install [here](https://github.com/Hydrohaven/ScreenCap/releases/tag/v2.2-beta), or click on releases!
 
 # Usage
 Users enter a name and starting number to increment from in the two text boxes at the top.\
